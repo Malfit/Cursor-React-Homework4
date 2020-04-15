@@ -7,6 +7,11 @@ import Contacts from './pages/Contacts';
 
 const routes = [
   {
+    path: '/',
+    component: <Home />,
+    exact: true,
+  },
+  {
     path: '/posts',
     component: <Posts />,
   },
@@ -18,16 +23,7 @@ const routes = [
     path: '/contacts',
     component: <Contacts />,
   },
-  {
-    path: '/',
-    component: <Home />,
-    exact: true,
-  },
-  {
-    path: '/Cursor-React-Homework4',
-    component: <Home />,
-    exact: true,
-  },
+  
 ];
 
 export default routes;
