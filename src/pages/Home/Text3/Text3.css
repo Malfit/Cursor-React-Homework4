@@ -1,0 +1,11 @@
+.text3{
+    display: flex;
+    
+    
+    font-size: 26px;
+    font-family: 'Gloria Hallelujah', cursive;
+    margin-top: 250px;
+    margin-left: 70px;
+    -webkit-transform: rotate(-5deg);
+    
+}

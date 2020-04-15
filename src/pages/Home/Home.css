@@ -1,0 +1,38 @@
+.homeContent{
+    color: white;
+    /* border: solid red; */
+    background-image: url(../../assets/Images/abstraktsiia_uzory_detali_130205_1366x768.jpg);
+    width: 90vw;
+}
+/* 
+.text1{
+    display:flex;
+    text-align: bottom; 
+
+} */
+/* .navBar{
+    width: 100vh;
+    height: auto;
+    border: solid red;
+}
+.navBar>ul{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: left;
+}
+
+.navBar>ul>li{
+    margin: 5px;
+
+} */
+
+
+
+
+/* .homeContent{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    border: solid red;
+} */

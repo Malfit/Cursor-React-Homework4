@@ -1,0 +1,19 @@
+.appDiv{   
+    display: flex;
+    max-height: 300vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    background-color: #3a3934;
+    border-radius: 10%;
+    margin-left: 30vw;
+    padding: 10px;   
+    border: solid white;
+}
+
+.fullpage{    
+    width: 92vw;
+    height: 100vh;   
+    background-color: black;
+}

@@ -1,0 +1,7 @@
+.text2{
+    text-align: right;
+    font-size: 30px;
+    font-family: 'Gloria Hallelujah', cursive;
+    margin-right: 70px;
+    -webkit-transform: rotate(10deg);
+}
