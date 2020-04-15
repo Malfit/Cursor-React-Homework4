@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Cursor-React-Homework4/static/css/main.b48a3219.chunk.css",
-    "main.js": "/Cursor-React-Homework4/static/js/main.e7513ba1.chunk.js",
-    "main.js.map": "/Cursor-React-Homework4/static/js/main.e7513ba1.chunk.js.map",
+    "main.js": "/Cursor-React-Homework4/static/js/main.3e3505ce.chunk.js",
+    "main.js.map": "/Cursor-React-Homework4/static/js/main.3e3505ce.chunk.js.map",
     "runtime-main.js": "/Cursor-React-Homework4/static/js/runtime-main.4e936161.js",
     "runtime-main.js.map": "/Cursor-React-Homework4/static/js/runtime-main.4e936161.js.map",
     "static/js/2.a705fb09.chunk.js": "/Cursor-React-Homework4/static/js/2.a705fb09.chunk.js",
     "static/js/2.a705fb09.chunk.js.map": "/Cursor-React-Homework4/static/js/2.a705fb09.chunk.js.map",
     "index.html": "/Cursor-React-Homework4/index.html",
-    "precache-manifest.8f2b2d9c87ac25f5bf1e3d8d9dfa59c7.js": "/Cursor-React-Homework4/precache-manifest.8f2b2d9c87ac25f5bf1e3d8d9dfa59c7.js",
+    "precache-manifest.c74107aaab5f7fbd5c85e517204c2a60.js": "/Cursor-React-Homework4/precache-manifest.c74107aaab5f7fbd5c85e517204c2a60.js",
     "service-worker.js": "/Cursor-React-Homework4/service-worker.js",
     "static/css/main.b48a3219.chunk.css.map": "/Cursor-React-Homework4/static/css/main.b48a3219.chunk.css.map",
     "static/js/2.a705fb09.chunk.js.LICENSE.txt": "/Cursor-React-Homework4/static/js/2.a705fb09.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.4e936161.js",
     "static/js/2.a705fb09.chunk.js",
     "static/css/main.b48a3219.chunk.css",
-    "static/js/main.e7513ba1.chunk.js"
+    "static/js/main.3e3505ce.chunk.js"
   ]
 }
