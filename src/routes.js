@@ -23,6 +23,11 @@ const routes = [
     component: <Home />,
     exact: true,
   },
+  {
+    path: '/Cursor-React-Homework4',
+    component: <Home />,
+    exact: true,
+  },
 ];
 
 export default routes;
